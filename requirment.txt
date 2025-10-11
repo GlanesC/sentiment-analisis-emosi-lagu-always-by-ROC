@@ -1,0 +1,8 @@
+google-api-python-client 
+pandas 
+nltk
+openpyxl
+googletrans==4.0.0-rc1
+emoji
+
+
